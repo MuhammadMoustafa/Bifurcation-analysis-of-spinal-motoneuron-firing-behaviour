@@ -1,12 +1,8 @@
 # Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour
 
-## ********************************************************** ##
-## Author:       Muhammad Ahmad
-## Email:        muhammadmoustafa@eng1.cu.edu.eg
-## Affiliation:  Systems and Biomedical Engineering Department
-##               Faculty of Engineering
-##               Cairo University
-## ********************************************************** ##
+### Author:       Muhammad Ahmad
+### Email:        muhammadmoustafa@eng1.cu.edu.eg
+### Affiliation:  Systems and Biomedical Engineering Department, Faculty of Engineering, Cairo University
 
 ## Steps
 1. Run time simulation till reaching steady state, usually running for till 600ms is enough
