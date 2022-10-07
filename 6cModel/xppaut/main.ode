@@ -1,0 +1,29 @@
+## ********************************************************** ##
+# Author:       Muhammad Ahmad
+# Email:        muhammadmoustafa@eng1.cu.edu.eg
+# Affiliation:  Systems and Biomedical Engineering Department
+#               Faculty of Engineering
+#               Cairo University
+## ********************************************************** ##
+
+
+dvs/dt=(I/sArea+Is)/CM
+dvah/dt=(Iah)/CM
+dvd0/dt=(Id0)/CM
+dvd1/dt=(Id1)/CM
+dvd2/dt=(Id2)/CM
+dvd3/dt=(Id3)/CM
+
+#include glob.inc
+#include func.inc
+#include soma.inc
+#include ah.inc
+#include dend0.inc
+#include dend1.inc
+#include dend2.inc
+#include dend3.inc
+#include conn.inc
+#include opt.inc
+#include stim.inc
+
+done
