@@ -1,9 +1,22 @@
 # Bifurcation-analysis-of-spinal-motoneuron-firing-behaviour
 
-### Author:       Muhammad Ahmad
-### Email:        muhammadmoustafa@eng1.cu.edu.eg
-### Affiliation:  Systems and Biomedical Engineering Department, Faculty of Engineering, Cairo University
+### Authors:  
+Muhammad Mustafa 1* , Mohamed H. Mousa 2* , Mohamed S. Saad 3 , Tamer Basha 1 , and Sherif M.Elbasiouny 2,4
+### Affiliation:  
+1. Department of Systems and Biomedical Engineering, Faculty of Engineering, Cairo University, Giza, Postal code: 12316, Egypt
+2. Department of Biomedical, Industrial and Human Factors Engineering, College of
+Engineering and Computer Science, Wright State University, Dayton, Ohio, 45435, USA
+3. Department of Electrical Power and Machines, Faculty of Engineering, Cairo University,
+Giza, Postal code: 12316, Egypt,
+4. Department of Neuroscience, Cell Biology, and Physiology, Boonshoft School of Medicine
+and College of Science and Mathematics, Wright State University, Dayton, Ohio, 45435,
+USA
+
+### Email:  
+muhammadmoustafa@eng1.cu.edu.eg, sherif.elbasiouny@wright.edu
+
 ---
+
 ## 6c Reduced Model Morphology
 ![6c Reduced Model](6cModel/images/6cModel.png "6cModel")
 
@@ -20,8 +33,8 @@
 | File | Function |
 | --- | --- |
 | main.ode | model starting point |
-| ah, and all ah files | Axon hilloc compartment and its channels |
-| soma and dendrites files | same as ah |
+| ah.inc, and all ah files | Axon hilloc compartment and its channels |
+| soma.inc and dendrites files | same as ah |
 | conn.inc | the connection eqaution "**conductance and resistance**" between each two compartments |
 | func.inc | contains helper functions |
 | glob.inc | constants used in the model |
