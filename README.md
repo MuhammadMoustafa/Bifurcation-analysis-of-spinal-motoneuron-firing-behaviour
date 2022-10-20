@@ -20,7 +20,7 @@ USA
 ## Significance
 
 <span style="display: block; margin-left: auto; margin-right: auto; width: 50%;">![6c Reduced Model](6cModel/images/6cModel.png "6cModel")</span>  
-<span style="font-size: small; display: block; margin-left: auto; margin-right: auto; width: 50%;">6c Reduced Model Morphology</span>
+<span style="font-size: small; display: block; margin-left: auto; margin-right: auto; width: 20%;">6c Reduced Model Morphology</span>
 
 We developed the first, to our knowledge, multi-compartment computer model of a neuron in XPPAUT, the primary bifurcation analysis software used in the literature, and conducted bifurcation analysis with unprecedented anatomical and ion channel detail, under normal and disease conditions. Using this model, we conducted bifurcation analysis of the role somatic and dendritic ion channels play in regulating repetitive firing of spinal motoneurons. We report novel nonlinear bifurcation behaviors of motoneurons under normal conditions and describe their underlying mechanisms. We also examined how known anatomical abnormalities of ALS contribute to motoneuron excitability dysfunction. The novel multi-compartment XPPAUT model, which we make publicly available to the scientific community, expands our capabilities to study neuronal function under normal and disease conditions.
 
