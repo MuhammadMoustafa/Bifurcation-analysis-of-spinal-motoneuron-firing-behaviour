@@ -52,4 +52,4 @@ We developed the first, to our knowledge, multi-compartment computer model of a 
 1. Open main.ode using XPPAUT 
 2. Run time simulation till reaching steady state, usually running for till 600ms is enough
 3. Open Auto and run steady state
-4. Grab one of hopf bifurcation points and run periodic
+4. Grab one of the two hopf bifurcation points and run periodic
