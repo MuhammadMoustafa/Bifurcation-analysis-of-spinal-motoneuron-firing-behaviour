@@ -55,7 +55,7 @@ We developed the first, to our knowledge, multi-compartment computer model of a 
 4. Grab one of the two hopf bifurcation points and run periodic
 
 ---
-### ALS Changes:
+## ALS Changes:
 
 This section provides the necessary steps to implement some of the ALS cellular changes.
 
